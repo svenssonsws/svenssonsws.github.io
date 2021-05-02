@@ -39,11 +39,11 @@
 
 ## 2.作业2
 引用百度的搜索功能，用html设计简单的百度搜索的引擎网页
-[作业2链接](https://svenssonsws.github.io/搜索引擎/搜索引擎.html)
+[作业2链接](https://svenssonsws.github.io/搜索引擎.html)
 
 ## 3.作业3
 
-对《天涯客》小说改编的近期热播电视剧《山河令》（word of honor）进行英文的剧情和主角简介的简单网页
+使用css，设计对《天涯客》小说改编的近期热播电视剧《山河令》（word of honor）进行英文的剧情和主角简介的简单网页
 [作业3链接](https://svenssonsws.github.io/山河令简介/山河令简介.html)
 
 
